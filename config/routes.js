@@ -1,7 +1,5 @@
 'use strict';
 
-var bwip = require('bwip');
-
 var Barc = require('barcode-generator'),
     barc = new Barc({hri: false});
 
